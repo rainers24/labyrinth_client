@@ -33,6 +33,8 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+
+
 void setupServer() {
     socket_descriptor = socket(AF_INET, SOCK_STREAM, 0);
     if (socket_descriptor == -1) {
@@ -42,4 +44,7 @@ void setupServer() {
     server.sin_addr.s_addr = INADDR_ANY;
     server.sin_family = AF_INET;
     server.sin_port = htons(PORT);
+
 }
+
+
