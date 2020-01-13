@@ -1,3 +1,0 @@
-/home/rainers/CLionProjects/labyrinth_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/rainers/CLionProjects/labyrinth_client/cmake-build-debug/CMakeFiles/labyrinth_client.dir
-/home/rainers/CLionProjects/labyrinth_client/cmake-build-debug/CMakeFiles/edit_cache.dir
