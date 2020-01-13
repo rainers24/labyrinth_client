@@ -1,0 +1,1 @@
+/usr/bin/cc -lncurses -g   CMakeFiles/labyrinth_client.dir/main.c.o CMakeFiles/labyrinth_client.dir/drawing.c.o  -o labyrinth_client 

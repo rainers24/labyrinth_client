@@ -1,0 +1,1 @@
+/usr/bin/cc -lncurses -g   CMakeFiles/drawing.dir/drawing.c.o  -o drawing 

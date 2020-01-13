@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rainers/CLionProjects/labyrinth_client/drawing.c
+stdio.h
+-
+locale.h
+-
+ncurses.h
+-
+stdlib.h
+-
+
